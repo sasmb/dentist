@@ -866,3 +866,10 @@ footer span a{
     font-size: 20px;
     margin-right: 3px;
 }
+
+.booking-button-container {
+    width: 100%;
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+}
